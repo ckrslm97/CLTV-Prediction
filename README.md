@@ -1,7 +1,9 @@
 # BGNBD & GG ile CLTV Tahmini 
 
 
-İş Problemi
+
+
+#İş Problemi
 
   Bir e-ticaret sitesi müşteri aksiyonları için müşterilerinin CLTV değerlerine göre ileriye dönük bir projeksiyon yapılmasını istemektedir.
 Elinizdeki veriseti ile 1 aylık yada 6 aylık zaman
