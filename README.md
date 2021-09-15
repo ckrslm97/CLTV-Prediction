@@ -1,4 +1,4 @@
-## BGNBD & GG ile CLTV Tahmini ##
+# BGNBD & GG ile CLTV Tahmini 
 
 
 İş Problemi
@@ -9,7 +9,7 @@ periyotları içerisinde en çok gelir getirebilecek
 müşterileri tespit etmek mümkün müdür?
 
 
-## Veri Seti Hikayesi
+# Veri Seti Hikayesi
 
 Online Retail II isimli veri seti İngiltere merkezli online bir satış mağazasının 01/12/2009 09/12/2011 tarihleri arasındaki satışlarını içeriyor.
 Bu şirketin ürün kataloğunda hediyelik eşyalar yer alıyor. Promosyon ürünleri olarak da düşünülebilir. Çoğu müşterisinin toptancı olduğu bilgisi de mevcut.
