@@ -15,7 +15,7 @@ Online Retail II isimli veri seti İngiltere merkezli online bir satış mağaza
 Bu şirketin ürün kataloğunda hediyelik eşyalar yer alıyor. Promosyon ürünleri olarak da düşünülebilir. Çoğu müşterisinin toptancı olduğu bilgisi de mevcut.
 
 
-# DEĞİŞKENLER
+# Değişkenler
 
 InvoiceNo : Fatura Numarası
 Eğer bu kod C ile başlıyorsa işlemin iptal edildiğini ifade eder.
